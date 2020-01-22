@@ -4,6 +4,7 @@ body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
   background-color: orange;
+  font-family: 'Bangers', cursive;
 }
 
 h1 {
@@ -14,3 +15,4 @@ h1 {
 .dogs{
   color: white;
 }
+
